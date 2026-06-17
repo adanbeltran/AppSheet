@@ -159,6 +159,11 @@ Cambie el tipo de las siguientes columnas a `Ref` y seleccione la tabla referenc
 | `Detalle_Ventas` | `id_venta` | `Ventas` |
 | `Detalle_Ventas` | `id_producto` | `Productos_Terminados` |
 
+
+
+<img width="1272" height="827" alt="image" src="https://github.com/user-attachments/assets/2393a4fe-73de-49c7-adad-89d591b881a7" />
+
+
 Active `IsPartOf` en:
 
 ```text
