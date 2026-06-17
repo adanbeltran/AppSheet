@@ -35,16 +35,28 @@
 
 ## 2. Crear la aplicación
 
-1. Inicie sesión en AppSheet.
+1. Inicie sesión en AppSheet. https://www.appsheet.com/Home/Apps
+   
 2. En `My Apps`, seleccione `Create > App > Start with existing data`.
-3. Escriba un nombre, por ejemplo `Panaderia_App_Prueba`.
+<img width="718" height="408" alt="image" src="https://github.com/user-attachments/assets/8d93267e-9021-4d9f-868a-e7efa63e3ee9" />
+
+   
+3. Escriba  `Panaderia_App_Prueba`.
+<img width="587" height="271" alt="image" src="https://github.com/user-attachments/assets/9e82c1f4-2dc9-4980-b9d3-7d056775f3e7" />
+
+
 4. Seleccione `Choose your data`.
-5. Elija la fuente:
-   - `Google Sheets`, para la opción A.
-   - `OneDrive` o `SharePoint`, para la opción B.
-6. Seleccione el archivo o la hoja convertida.
+5. Elija la fuente:  `Google Sheets`, 
+  
+6. Seleccione el archivo.
+<img width="943" height="582" alt="image" src="https://github.com/user-attachments/assets/28d315a7-5917-446b-bdf4-bd145e0e438e" />
+
+   
 7. Espere a que se genere la app.
 8. Cuando aparezca la pantalla inicial, seleccione `Customize with AppSheet`.
+<img width="768" height="758" alt="image" src="https://github.com/user-attachments/assets/4b669252-bf78-492e-a22a-86be68c2d9b8" />
+
+   
 
 ## 3. Agregar las tablas
 
@@ -52,6 +64,9 @@ En el editor actual:
 
 1. Abra `Data`.
 2. Use el botón `+` del panel de datos para agregar hojas que no se hayan incorporado.
+<img width="1257" height="563" alt="image" src="https://github.com/user-attachments/assets/44bdeb67-e9a4-4b4e-bcfc-046685e0b791" />
+
+
 3. Agregue estas tablas operativas:
 
 ```text
@@ -68,6 +83,12 @@ Detalle_Ventas
 
 4. No agregue como tablas operativas `README`, `Modelo_Datos`, `Guia_AppSheet`, `Fuentes`, `Listas` o `Dashboard`, salvo que el diseño requiera consultar alguna de ellas dentro de la app.
 5. Para cada tabla, confirme que los usuarios puedan realizar las operaciones necesarias: `Adds`, `Updates` y, solo cuando corresponda, `Deletes`.
+<img width="585" height="372" alt="image" src="https://github.com/user-attachments/assets/a49914c8-2f97-4d9f-80eb-073be908dcf9" />
+
+
+<img width="552" height="697" alt="image" src="https://github.com/user-attachments/assets/569168dd-7c8e-4731-9a91-534a9667afb6" />
+
+
 
 ## 4. Configurar llaves
 
