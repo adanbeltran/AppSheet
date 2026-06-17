@@ -120,6 +120,11 @@ Configuración adicional recomendada para las llaves:
 - `Required?`: activado.
 - Tipo: `Text`.
 
+Si agrego la Tabla Lista, se debe eliminar del modelo
+
+<img width="408" height="320" alt="image" src="https://github.com/user-attachments/assets/34275653-7ff2-41af-8b2c-b6ee9fd4da44" />
+
+
 No use nombres, números de documento, consecutivos de fila ni `ROWNUMBER` como llave.
 
 ## 5. Configurar etiquetas
@@ -131,6 +136,10 @@ Marque como `Label`:
 | `Proveedores` | `nombre_proveedor` |
 | `Materias_Primas` | `nombre_materia_prima` |
 | `Productos_Terminados` | `nombre_producto` |
+
+
+<img width="957" height="738" alt="image" src="https://github.com/user-attachments/assets/e6b98c4c-1df6-4eae-96ab-f4313aac9961" />
+
 
 Para órdenes y ventas puede conservarse el identificador o crear posteriormente una columna virtual descriptiva.
 
