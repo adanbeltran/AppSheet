@@ -98,6 +98,9 @@ En `Data`, seleccione una tabla y luego la columna identificadora. Marque `Key` 
 UNIQUEID()
 ```
 
+<img width="1492" height="605" alt="image" src="https://github.com/user-attachments/assets/65ee90e2-b3d1-4255-b580-748c86dac4e1" />
+
+
 | Tabla | Key |
 |---|---|
 | `Proveedores` | `id_proveedor` |
