@@ -2,6 +2,10 @@
 
 [Volver al README](./README.md) · [Abrir la plantilla Excel](./plantilla_appsheet_panaderia.xlsx) · [Continuar con el contexto](./2_Contexto_del_taller.md)
 
+
+<img width="1055" height="1491" alt="image" src="https://github.com/user-attachments/assets/1ec7f6bf-2ef1-4aed-adc5-699eda6d06e1" />
+
+
 ## 1. Vigencia de la guía
 
 AppSheet es una plataforma no-code ofrecida como servicio en la nube. Sus funciones y su editor se actualizan de forma continua; por ello, esta guía no hace referencia a un número fijo de versión. La navegación fue verificada el **17 de junio de 2026** con el editor mejorado, que se encuentra habilitado de manera predeterminada.
