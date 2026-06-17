@@ -14,18 +14,24 @@
 
 ### Opción A. Google Sheets — recomendada para el taller
 
-1. Suba el archivo a Google Drive.
-2. Ábralo con Google Sheets.
-3. Use `Archivo > Guardar como Hojas de cálculo de Google`.
-4. Confirme que cada hoja mantenga la primera fila como encabezado.
-5. Revise que no existan celdas combinadas ni filas de título dentro de las hojas operativas.
+1. Crear una Carpeta en GoogleDrive con el nombre de TallerPanaderia
+   <img width="1147" height="520" alt="image" src="https://github.com/user-attachments/assets/006edf62-4890-4276-83a5-29c08f5c9f4d" />
 
-### Opción B. Excel `.xlsx`
+2. Subir el archivo plantilla_appsheet_panaderia en la carpeta creada
 
-1. Guarde el archivo en OneDrive o SharePoint.
-2. Conserve la extensión `.xlsx`.
-3. Verifique que la cuenta usada en AppSheet tenga acceso al archivo.
-4. No convierta el archivo a `.xls` ni `.xlsm`, formatos que AppSheet no admite como fuente Excel.
+<img width="998" height="478" alt="image" src="https://github.com/user-attachments/assets/810ea499-907e-45fc-a81b-2e2438b2b5a3" />
+
+3. Ábralo con Google Sheets.
+<img width="822" height="542" alt="image" src="https://github.com/user-attachments/assets/c4f6568f-e8dc-401d-a618-d0be2777f162" />
+
+   
+7. Use `Archivo > Guardar como Hojas de cálculo de Google`.
+
+<img width="1506" height="691" alt="image" src="https://github.com/user-attachments/assets/d193cc6d-4feb-435a-b86c-13ccaa967070" />
+
+9. Confirme que cada hoja mantenga la primera fila como encabezado.
+10. Revise que no existan celdas combinadas ni filas de título dentro de las hojas operativas.
+
 
 ## 2. Crear la aplicación
 
