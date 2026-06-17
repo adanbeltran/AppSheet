@@ -171,6 +171,10 @@ Detalle_Ventas[id_venta]
 Consumos_MP_OP[id_orden_produccion]
 ```
 
+
+<img width="1267" height="827" alt="image" src="https://github.com/user-attachments/assets/79c56e0c-3bcd-4d8d-ad12-b320acd7b15f" />
+
+
 Resultado esperado: AppSheet genera columnas inversas relacionadas y permite gestionar los detalles desde el registro padre.
 
 ## 7. Revisar tipos de datos
