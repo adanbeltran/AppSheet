@@ -8,6 +8,11 @@
 
 > **Nota de vigencia:** AppSheet es un servicio en la nube con actualización continua y no se distribuye mediante un número de versión de escritorio convencional. Este material fue revisado con la documentación oficial disponible al 17 de junio de 2026. Las rutas emplean la navegación vigente del editor: **Data, App, Actions, Automation, Security, Settings y Manage**. Las denominaciones **UX** y **Behavior** solo se mencionan como equivalencias del editor heredado.
 
+
+
+<img width="1055" height="1491" alt="7fea3867-4f57-44ce-b857-9b8f01c9ff8f" src="https://github.com/user-attachments/assets/2fe64f63-897a-423c-b7e3-f5c6374748e0" />
+
+
 ## Objetivo del taller
 
 Construir y validar una primera versión funcional de una aplicación en AppSheet para apoyar la gestión básica de una panadería, utilizando un modelo de datos relacional que permita registrar proveedores, materias primas, productos terminados, recetas, ingresos de insumos, órdenes de producción, consumos y ventas; configurar llaves, referencias, formularios, validaciones, cálculos de inventario estimado y vistas de consulta; y ejecutar una prueba integral desde el ingreso de materia prima hasta la venta del producto terminado.
