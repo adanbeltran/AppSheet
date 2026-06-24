@@ -88,6 +88,8 @@ La tabla puede configurarse como **Read-only**, debido a que los usuarios no nec
 
 Utilice imágenes PNG o JPG con una apariencia uniforme.
 
+https://www.flaticon.es/iconos-gratis/app
+
 Recomendaciones:
 
 - emplear iconos cuadrados y de tamaño similar;
